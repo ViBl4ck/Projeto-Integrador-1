@@ -1,34 +1,36 @@
- <div align="center">
-  <h1>🌐 SocialLens BSB</h1>
-  <p><em>Dashboard de BI e Transparência das ONGs do Distrito Federal</em></p>
-  <p><strong>Projeto Integrador I - Análise e Desenvolvimento de Sistemas (ADS)</strong> 🚀</p>
+<div align="center">
+
+# 🌑 [Projeto F]
+
+*RPG Pixel Art 2D de Fantasia Folclórica e História do Brasil*
+
+**Projeto Integrador I - Análise e Desenvolvimento de Sistemas (ADS) 🚀**
+
 </div>
 
 ---
 
-## 📖 Sobre o Projeto
+### 📖 Sobre o Projeto
 
-Identificamos uma lacuna significativa entre os dados governamentais publicados e a compreensão real por parte do cidadão. Os portais de transparência atuais frequentemente apresentam tabelas extensas e interfaces complexas que, em vez de informar, acabam afastando a população.
+Identificamos uma lacuna significativa na forma como a História do Brasil e o nosso folclore são representados no mercado de jogos e entretenimento. Atualmente, essas temáticas são frequentemente abordadas de maneira infantilizada, superficial ou com o mito romantizado do "bom colonizador", o que acaba quebrando a imersão e afastando o público de jogadores mais assíduos.
 
-O **SocialLens BSB** nasce com a proposta de simplificar esse labirinto. Nosso objetivo é refinar os dados brutos de Brasília, transformando-os em uma ferramenta de *Business Intelligence* (BI) direta, organizada e altamente intuitiva. Entregaremos uma plataforma onde não é necessário ser especialista em finanças públicas para compreender o impacto social gerado pelas instituições no DF.
+O **[Projeto F]** nasce com a proposta de quebrar esse estigma. Nosso objetivo é criar um RPG focado em exploração com uma atmosfera um pouco mais madura. Entregaremos uma experiência onde as lendas nacionais são tratadas como ameaças reais e a história é contada com profundidade, explorando os verdadeiros conflitos territoriais do Brasil Colônia/Império através de personagens e facções moralmente cinzas.
 
 ### 💡 Nossas Motivações
 
-* **Combate à Falta de Clareza:** Facilitar a visualização da eficiência das ONGs e a destinação de recursos por meio da criação de um **"Score de Transparência"**, fornecendo respostas em segundos.
-* **Redução da Desigualdade de Assistência:** Mapear a localização das ONGs no Distrito Federal para identificar "vazios assistenciais", promovendo um investimento social mais estratégico e justo.
-* **Democratização do Dado:** Utilizar o desenvolvimento de sistemas como ponte para traduzir a burocracia, gerando impacto social real e acessível.
+* **Valorização Cultural Madura:** Elevar o folclore brasileiro ao patamar de alta fantasia e terror, mostrando que nossas criaturas (como Cuca, Corpo-Seco e Capelobo) possuem um enorme potencial para o desenvolvimento de narrativas maduras e desafiadoras.
+* **Revisão Histórica Crítica:** Substituir a visão rasa da história por uma *lore* profunda, instigando o jogador a teorizar, investigar mistérios e entender as raízes dos conflitos do nosso "Brasil Profundo".
+* **Engajamento e Retenção de Jogadores:** Combater a frustração gerada por missões repetitivas e diálogos muito expositivos, entregando uma experiência recompensadora focada em exploração de mundo (*Show, don't tell*) e mecânicas de combate estratégico.
 
----
-
-## 🎯 Objetivos Iniciais e Roadmap
+### 🎯 Objetivos Iniciais e Roadmap
 
 Estabelecemos metas fundamentais para o desenvolvimento inicial do projeto:
 
-- [ ] **Centralização de Dados:** Consolidar, em uma base unificada, informações atualmente dispersas entre o Mapa das OSCs (Ipea) e o Portal de Dados Abertos do DF.
-- [ ] **Simplificação da Interface (UX/UI):** Desenvolver um dashboard livre de ruídos burocráticos, priorizando a navegação visual para usuários leigos.
-- [ ] **Índice de Transparência:** Implementar um algoritmo para calcular um *Score* para cada ONG, com base na regularidade de suas prestações de contas.
-- [ ] **Mapeamento da Assistência Social:** Identificação geográfica das áreas com maior e menor cobertura de projetos sociais.
-- [ ] **Cálculo Automático de Eficiência:** Estruturação sistêmica para calcular o custo por pessoa atendida, convertendo finanças em indicadores de impacto.
+- [ ] **Direção de Arte e Atmosfera:** Desenvolver a identidade visual do projeto em *Pixel Art 2D*, aplicando uma paleta de cores e design de som focados no clima noturno, pesado e de sobrevivência.
+- [ ] **Design Narrativo Ambiental:** Desenvolver um sistema onde a história é contada ativamente pelo cenário, fragmentando pistas, ruínas e documentos pelo mapa para recompensar a exploração.
+- [ ] **Prototipação do Combate Estratégico:** Implementar e balancear um sistema de combate dinâmico que fuja do "esmagar botões", exigindo preparo, leitura de padrões e tática dos jogadores.
+- [ ] **Design de Criaturas Sombrias:** Traduzir as figuras folclóricas para a mecânica de jogo, criando atributos e comportamentos assustadores para funcionarem como *bosses* ou desafios de elite.
+- [ ] **Estruturação do Contexto Histórico:** Mapear o motor da história baseando-se em conflitos de território reais (envolvendo exploradores, nativos e quilombolas), evitando o maniqueísmo narrativo.
 
 ---
 
