@@ -25,6 +25,8 @@
  ┣  ┗
  ┗ 📂 data/
 
+---
+
 ### 📖 Sobre o Projeto
 
 Identificamos uma lacuna significativa na forma como a História do Brasil e o nosso folclore são representados no mercado de jogos e entretenimento. Atualmente, essas temáticas são frequentemente abordadas de maneira infantilizada, superficial ou com o mito romantizado do "bom colonizador", o que acaba quebrando a imersão e afastando o público de jogadores mais assíduos.
