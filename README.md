@@ -10,6 +10,23 @@
 
 ---
 
+## 📂 Estrutura do Repositório
+
+```text
+📦 Tree F`s Project Green
+ ┣ 📂 docs/        
+ ┣   ┣ 📜 DAN
+ ┣   ┣ 📜 DDR
+ ┣   ┗ 📜 Documentacao
+ ┣
+ ┣ 📂 src/   
+ ┣  ┣
+ ┣  ┣
+ ┣  ┗
+ ┗ 📂 data/
+
+---
+
 ### 📖 Sobre o Projeto
 
 Identificamos uma lacuna significativa na forma como a História do Brasil e o nosso folclore são representados no mercado de jogos e entretenimento. Atualmente, essas temáticas são frequentemente abordadas de maneira infantilizada, superficial ou com o mito romantizado do "bom colonizador", o que acaba quebrando a imersão e afastando o público de jogadores mais assíduos.
@@ -45,11 +62,3 @@ Estabelecemos metas fundamentais para o desenvolvimento inicial do projeto:
 | **Vitor Camargo** | Arquiteto de Software | vitor.co@sempreceub.com |
 
 ---
-
-## 📂 Estrutura do Repositório
-
-```text
-📦 sociallens-bsb
- ┣ 📂 docs/        # Documentação técnica, atas de reunião e protótipos (Figma)
- ┣ 📂 src/         # Código-fonte (Frontend e Backend da aplicação)
- ┗ 📂 data/        # Dicionário de dados e amostras das bases (Ipea/GDF)
