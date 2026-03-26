@@ -18,11 +18,7 @@
  ┣   ┣ 📜 DAN
  ┣   ┣ 📜 DDR
  ┣   ┗ 📜 Documentacao
- ┣
  ┣ 📂 src/   
- ┣  ┣
- ┣  ┣
- ┣  ┗
  ┗ 📂 data/
 
 ---
