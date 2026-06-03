@@ -1,87 +1,127 @@
-# 🌑 Project 3F (Triple F)
+# 🌑 Anahí (Projeto 3F)
 
-*RPG Pixel Art 2D de Fantasia Folclórica e História do Brasil*
+*Action Metroidvania / RPG em Pixel Art 2D de Folclore, Flora e Fauna do Brasil*
 
-**Projeto Integrador I - Análise e Desenvolvimento de Sistemas (ADS) 🚀**
+**Projeto Integrador I — Análise e Desenvolvimento de Sistemas (ADS) 🚀**
 
-</div>
+**Ipê Arc Studio · Versão 3.0 · 2026**
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 ```text
-📦 Tree F`s Project Green
- ┣ 📂 docs/        
- ┣   ┣ 📜 DAN
- ┣   ┣ 📜 DDR
- ┣   ┗ 📜 Documentacao
- ┣ 📂 src/   
+📦 Anahi-Projeto3F
+ ┣ 📂 docs/
+ ┃ ┣ 📜 DAN  — Documento de Análise de Negócio
+ ┃ ┣ 📜 DDR  — Documento de Definição de Requisitos
+ ┃ ┣ 📜 DAA  — Documento de Arquitetura e Diagramas
+ ┃ ┣ 📜 Estética de Personagens
+ ┃ ┗ 📜 Wireframes
+ ┣ 📂 src/
  ┗ 📂 data/
 ```
----
-
-### 📖 Sobre o Projeto
-
-Identificamos uma lacuna significativa na forma como a História do Brasil e o nosso folclore são representados no mercado de jogos e entretenimento. Atualmente, essas temáticas são frequentemente abordadas de maneira infantilizada, superficial ou com o mito romantizado do "bom colonizador", o que acaba quebrando a imersão e afastando o público de jogadores mais assíduos.
-
-O **[Projeto F] ( Folclore | Flora | Fauna )** nasce com a proposta de quebrar esse estigma. Nosso objetivo é criar um RPG focado em exploração com uma atmosfera um pouco mais madura. Entregaremos uma experiência onde as lendas nacionais são tratadas como ameaças reais e a história é contada com profundidade, explorando os verdadeiros conflitos territoriais do Brasil Colônia/Império através de personagens e facções moralmente cinzas.
-
-### 💡 Nossas Motivações
-
-* **Valorização Cultural Madura:** Elevar o folclore brasileiro ao patamar de alta fantasia e terror, mostrando que nossas criaturas (como Cuca, Corpo-Seco e Capelobo) possuem um enorme potencial para o desenvolvimento de narrativas maduras e desafiadoras.
-* **Revisão Histórica Crítica:** Substituir a visão rasa da história por uma *lore* profunda, instigando o jogador a teorizar, investigar mistérios e entender as raízes dos conflitos do nosso "Brasil Profundo".
-* **Engajamento e Retenção de Jogadores:** Combater a frustração gerada por missões repetitivas e diálogos muito expositivos, entregando uma experiência recompensadora focada em exploração de mundo (*Show, don't tell*) e mecânicas de combate estratégico.
-
-### 🎯 Objetivos Iniciais e Roadmap
-
-Estabelecemos metas fundamentais para o desenvolvimento inicial do projeto:
-
-- [ ] **Direção de Arte e Atmosfera:** Desenvolver a identidade visual do projeto em *Pixel Art 2D*, aplicando uma paleta de cores e design de som focados no clima noturno, pesado e de sobrevivência.
-- [ ] **Design Narrativo Ambiental:** Desenvolver um sistema onde a história é contada ativamente pelo cenário, fragmentando pistas, ruínas e documentos pelo mapa para recompensar a exploração.
-- [ ] **Prototipação do Combate Estratégico:** Implementar e balancear um sistema de combate dinâmico que fuja do "esmagar botões", exigindo preparo, leitura de padrões e tática dos jogadores.
-- [ ] **Design de Criaturas Sombrias:** Traduzir as figuras folclóricas para a mecânica de jogo, criando atributos e comportamentos assustadores para funcionarem como *bosses* ou desafios de elite.
-- [ ] **Estruturação do Contexto Histórico:** Mapear o motor da história baseando-se em conflitos de território reais (envolvendo exploradores, nativos e quilombolas), evitando o maniqueísmo narrativo.
 
 ---
 
-⚙️ Requisitos Funcionais
-Abaixo estão os principais requisitos funcionais que guiam o escopo de desenvolvimento do sistema do jogo:
+## 📖 Sobre o Projeto
 
-* **RF1 - Sistema de Combate:** Mecânicas de ataque, defesa e esquiva responsivas e táticas.
-* **RF2 - Sistema de Movimentação:** Controles fluidos para exploração de biomas no estilo plataforma/metroidvania.
-* **RF3 - Sistema de Crafting (Criação):** O jogador deve poder combinar elementos da flora brasileira coletados no cenário (ervas, cipós, resinas) para criar curativos, armadilhas ou óleos para armas.
-* **RF4 - Sistema de Entidades:** Inteligência artificial e padrões de comportamento para inimigos comuns e chefes (entidades folclóricas).
-* **RF5 - Sistema de Colecionáveis:** Gerenciamento de itens de *lore*, documentos históricos e recursos ocultos pelo mapa.
+Identificamos uma lacuna significativa na forma como a História do Brasil e o nosso folclore são representados no mercado de jogos. Atualmente, essas temáticas costumam ser abordadas de maneira infantilizada, superficial ou estereotipada, o que quebra a imersão e afasta o público de jogadores mais assíduos.
 
----
+O **Anahí (Projeto 3F — Folclore · Flora · Fauna)** nasce para quebrar esse estigma. Nosso objetivo é criar um **Action Metroidvania / Action RPG 2D em Pixel Art**, com atmosfera madura, no qual a fauna, a flora e as lendas brasileiras são tratadas com profundidade simbólica e mitológica. O jogador explora biomas interconectados, enfrenta entidades folclóricas em **combate action em tempo real** e constrói, ao longo da jornada, um **Codex Cultural** consultável.
 
-### 🎨 Protótipo
-
-*Insira aqui imagens, GIFs ou links para o protótipo jogável, telas de UI/UX ou artes conceituais (Figma, Unity, Godot, etc).*
-
-Tela Inicial
-
-
-<img width="480" height="300" alt="Tela_Menu_Inicio" src="https://github.com/user-attachments/assets/b8fda2ec-6315-43e8-b7a3-4179f98f2e4b" />
-<img width="480" height="300" alt="Tela_Menu_Novo_Jogo" src="https://github.com/user-attachments/assets/8e68d8f0-f6c7-4cc8-8695-44fcc6853d3b" />
-<img width="480" height="300" alt="Tela_Menu_Configuracoes" src="https://github.com/user-attachments/assets/cf6a8f69-aea6-4473-be87-7e3d385089bb" />
-<img width="480" height="300" alt="Tela_Menu_Continuar_Jornada" src="https://github.com/user-attachments/assets/9ebac0ca-fc0f-4981-989b-82639af05bc5" />
+O jogo é uma aplicação **desktop standalone**, single-player, com **persistência local em arquivo** (sem servidor).
 
 ---
 
-### 📋 Product Backlog
+## 💡 Nossas Motivações
 
-Acompanhamento das *User Stories* e entregas mapeadas para a primeira fase de desenvolvimento:
+* **Valorização Cultural Madura:** elevar o folclore brasileiro ao patamar de alta fantasia e terror, mostrando que criaturas como Cuca, Corpo Seco e Saci possuem enorme potencial para narrativas maduras e desafiadoras, apresentadas de forma **não infantilizada**.
+* **Aprendizagem Ativa (*Show, don't tell*):** combater o consumo passivo de conteúdo, contando a história pelo cenário e pela exploração, recompensando a curiosidade do jogador.
+* **Engajamento e Retenção:** entregar uma experiência recompensadora, com progressão de habilidades e um registro cultural consultável que favorece a revisitação do conteúdo.
+
+---
+
+## 🎯 Objetivos e Roadmap
+
+- [ ] **Direção de Arte e Atmosfera:** consolidar a identidade visual em *Pixel Art 2D*, com paleta e design de som focados no clima noturno e de sobrevivência.
+- [ ] **Design Narrativo Ambiental:** história contada pelo cenário, com pistas, ruínas e diálogos culturais que geram entradas no Codex.
+- [ ] **Combate Action em Tempo Real:** implementar e balancear ataque leve, ataque pesado, esquiva, habilidades com *cooldown* e *stamina* — sem combate por turno.
+- [ ] **Design de Criaturas Folclóricas:** traduzir entidades do folclore para mecânicas, comportamentos e *bosses*.
+- [ ] **Exploração de Biomas:** ambientar o jogo em **dois biomas brasileiros — Mata Atlântica e Caatinga**.
+
+---
+
+## ⚙️ Funcionalidades (EAS — F1 a F13)
+
+As 13 funcionalidades estão organizadas pelas etapas do Sistema de Informação: **Entrada**, **Processamento** e **Saída**.
+
+**🟢 Entrada**
+* **F1 — Menu Principal e Navegação Inicial**
+* **F2 — Criação de Personagem** (nome e *classType*)
+* **F3 — Gerenciamento de Jornadas** (até 3 *slots* salvos)
+* **F4 — Configurações do Sistema**
+
+**🟡 Processamento (gameplay ativo)**
+* **F5 — Exploração de Biomas** (Mata Atlântica e Caatinga)
+* **F6 — Combate Action contra Entidades do Folclore**
+* **F7 — Sistema de Diálogos Culturais**
+* **F8 — Habilidades Action Metroidvania**
+* **F9 — Coleta de Itens Culturais**
+
+**🔵 Saída**
+* **F10 — Progressão de Personagem e Recompensas**
+* **F11 — Codex Cultural Consultável**
+* **F12 — Salvamento e Persistência de Progresso**
+* **F13 — Painel de Resultados Educacionais** (acesso restrito à Professora)
+
+---
+
+## 🧍 Personagens
+
+* **Anahí** — protagonista, indígena Tupi com forte conexão com a natureza. Após a invasão de sua aldeia por tropas portuguesas, parte em jornada para buscar a ajuda das entidades da mata. Caçadora ágil, usa **arco e flecha, tacapé** e pinturas rituais de **jenipapo** (luto) e **urucum** (vingança).
+* **Cuca** — entidade de origem ibérica, bruxa do manguezal que se transforma em um **jacaré-açu**.
+* **Saci Pererê** — entidade folclórica *(em desenvolvimento)*.
+* **Corpo Seco** — entidade folclórica *(em desenvolvimento)*.
+
+---
+
+## 🏗️ Arquitetura
+
+Arquitetura **em camadas** (*layered architecture*), na qual cada camada depende apenas da imediatamente inferior:
+
+* **Apresentação (UI / HUD)** — telas e HUD (F1–F4, F11, F13).
+* **Controle (Game Loop)** — `GameManager`, `InputManager`, controladores de Exploração, Combate, Diálogo, Progressão, Codex e Relatórios (UC01–UC13).
+* **Domínio (Modelo + Regras)** — entidades de jogo e o **Motor de Regras de Negócio** (RN1–RN13).
+* **Serviços / Infraestrutura** — `SaveManager`, `PersistenceService`, `AudioManager`, `AssetLoader`, `ExportService`, `ContentRepository`.
+* **Dados — Disco Local** — *slots* de jornada (1–3), configuração, base do Codex e relatórios exportados.
+
+---
+
+## 🎨 Protótipo e Wireframes
+
+Telas mapeadas (ver documento de **Wireframes**):
+
+* Tela de Início / Título
+* Tela de Menu
+* Tela de Configurações
+* Tela de Nova Jornada (seleção de classe e dificuldade)
+* Tela de Continuar Jornada (*slots* de save)
+* Tela de Jogo (HUD)
+* Tela de Mapa
+
+---
+
+## 📋 Product Backlog (Sprint 1)
 
 | Rank | Prioridade | Resumo | User Story | Sprint | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Alta | Documentação e Escopo | Como membro da equipe, eu quero finalizar o DAN e o DDR para garantir que o escopo do projeto integrador está perfeitamente definido e alinhado. | 1 | Finalizado |
-| 2 | Alta | Configuração do Repositório | Como desenvolvedor, eu quero configurar o repositório base (GitHub) e o motor de jogo para que a equipe possa colaborar e iniciar o versionamento de forma segura. | 1 | Em progresso |
-| 3 | Alta | Prototipação de Movimentação | Como jogador, eu quero poder andar, pular e interagir de forma básica com o cenário para testar a fluidez do sistema de movimentação (RF2). | 1 | A Fazer |
-| 4 | Alta | Concept Art e Identidade | Como artista, eu quero definir a paleta de cores e os primeiros esboços em *Pixel Art 2D* para estabelecer a atmosfera sombria do bioma inicial. | 1 | Em progresso |
-| 5 | Média | Esboço da Interface (HUD) | Como jogador, eu quero visualizar uma tela de interface minimalista (vida e energia) para focar na ação sem obstruções visuais. | 1 | A Fazer |
-| 6 | Média | Sistema de Combate Básico | Como jogador, eu quero ter acesso a uma mecânica de ataque simples para validar a capacidade de resposta (input lag) e a tática do sistema de combate (RF1). | 1 | A Fazer |
+| 1 | Alta | Documentação e Escopo | Como membro da equipe, quero finalizar o DAN e o DDR para garantir que o escopo está definido e alinhado. | 1 | Finalizado |
+| 2 | Alta | Configuração do Repositório | Como desenvolvedor, quero configurar o repositório base e o motor de jogo para iniciar o versionamento. | 1 | Em progresso |
+| 3 | Alta | Prototipação de Movimentação | Como jogador, quero andar, pular e interagir para testar a fluidez da movimentação. | 1 | A Fazer |
+| 4 | Alta | Concept Art e Identidade | Como artista, quero definir paleta e esboços em Pixel Art para a atmosfera do bioma inicial. | 1 | Em progresso |
+| 5 | Média | Esboço da Interface (HUD) | Como jogador, quero uma HUD minimalista (vida e energia) para focar na ação. | 1 | A Fazer |
+| 6 | Média | Combate Action Básico | Como jogador, quero uma mecânica de ataque simples para validar a resposta e a tática do combate. | 1 | A Fazer |
 
 ---
 
@@ -97,8 +137,9 @@ Acompanhamento das *User Stories* e entregas mapeadas para a primeira fase de de
 
 ---
 
-### 📚 Referências
+## 📚 Referências
 
-* **Folclore e Mitologia:** *Câmara Cascudo, Dicionário do Folclore Brasileiro.*
-* **Referências de Gameplay:** *Hollow Knight (Movimentação e narrativa ambiental), Blasphemous (Tom maduro e combate).*
-* **Motor Gráfico:** *[Unity]*
+* **Folclore e Mitologia:** Câmara Cascudo, *Dicionário do Folclore Brasileiro* (1954).
+* **Cultura Indígena / Pintura Corporal:** FUNAI — *Tradição: o arco e flecha na cultura das populações indígenas*; *Pinturas corporais indígenas carregam marcas de identidade cultural*. GALLOIS, D. T. (org.), *Kusiwa: pintura corporal e arte gráfica Wajãpi* (Museu do Índio/FUNAI, 2002).
+* **Referências de Gameplay:** *Hollow Knight* (movimentação e narrativa ambiental), *Blasphemous* (tom maduro e combate).
+* **Motor Gráfico:** Unity.
